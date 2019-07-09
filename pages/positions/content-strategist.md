@@ -260,7 +260,7 @@ To qualify for this role, you must have one year of specialized experience equiv
 
 3. Experience participating in content or design efforts for cross-functional teams building complex digital projects. This must include **ONE** of the following:
 - Experience collaborating with teammates across different disciplines such as design, product, or engineering
-- Experience working on a digital project for complex organizations such as public sector institutions, private corporations or non-profits
+- Experience working on a digital project for complex organizations such as public sector institutions, private corporations, or non-profits
 - Experience working in highly-regulated domains or bureaucratic environments
 
 Qualification determinations cannot be made when resumes do not include the required information, so failure to provide this information may result in disqualification.
